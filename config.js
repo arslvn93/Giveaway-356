@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You are in the running!",
-    "mainMessage": "Your entry for the <strong>Blue Jays VIP Giveaway</strong> is in. I will draw the winner on April 3, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your email on April 3. Follow Instagram and Facebook for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -166,6 +159,8 @@ const config = {
       "Follow Alexander Evans on Instagram or Facebook for the winner post",
       "If you win, please send a game photo so it can be shared"
     ],
+    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "Every entry has the same chance. We use a random draw. No tricks. No favorites."
@@ -186,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1773766245903_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -208,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1773766245903_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -234,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1773766245903_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -260,6 +255,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Blue Jays VIP Giveaway has been received. Complete your entry below to be eligible for the April 3 draw.\n\n",
+    "socialPromptText": "Follow @alexanderevans.to on Instagram to complete your entry - only followers are eligible"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/alexander.evans.5682/",
