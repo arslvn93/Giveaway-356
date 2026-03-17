@@ -90,7 +90,7 @@ const config = {
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer 4 Quick Questions",
+        "title": "Answer 3 Quick Questions",
         "description": "Tell us a bit about your home plans."
       },
       {
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1773766245903_0",
+      "id": "q_auto_1773766344812_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773766245903_1",
+      "id": "q_auto_1773766344812_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773766245903_2",
+      "id": "q_auto_1773766344812_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
