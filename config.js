@@ -5,7 +5,7 @@ const config = {
     "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>2 VIP Blue Jays Tickets</span>, Section 117 Row 9!",
+    "heroHeadline": "2 VIP Blue Jays Tickets, Section 117 Row 9!",
     "heroSubheadline": "Lower bowl. Close to the action. <span class='highlight'>$250 value</span>. Early season game. For my clients and followers only. Entry ends April 3.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/yz9n7s8epdrmy0cwzfxa7drbsr.jpg",
     "promotionDates": "Enter March 18 to April 3, 2026. Winner drawn April 3, 2026.",
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1773766344812_0",
+      "id": "q_auto_1773843872562_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773766344812_1",
+      "id": "q_auto_1773843872562_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1773766344812_2",
+      "id": "q_auto_1773843872562_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
