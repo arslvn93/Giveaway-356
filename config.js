@@ -30,7 +30,7 @@ const config = {
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/rPpgaEqFM2xVOZ0S4OgR/webhook-trigger/KHtTKUry7x1iQeudDsB6",
     "facebookPixelId": "1057475448873422",
     "turnstileSiteKey": "",
-    "salesGeniusAppApi": "",
+    "salesGeniusAppApi": "api_3e0fb80d49a0a74eb08c59083d787b99",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
